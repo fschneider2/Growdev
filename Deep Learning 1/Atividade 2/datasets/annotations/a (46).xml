@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasets</folder>
+	<filename>a (46).jpg</filename>
+	<path>D:\Project 2020\github repo\object detection keras pretrained mobilenet\datasets\a (46).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>81</ymin>
+			<xmax>194</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>
